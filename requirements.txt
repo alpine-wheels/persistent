@@ -1,1 +1,1 @@
-persistent==5.2
+persistent==6.0
